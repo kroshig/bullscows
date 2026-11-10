@@ -15,7 +15,7 @@
     "url": "git+https://github.com/kroshig/bullscows.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/kroshig/bullscows/issues"
   },
